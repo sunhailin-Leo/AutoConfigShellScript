@@ -18,7 +18,7 @@ Automatically compile and configure ffmpeg, Python 3.7.2(default), PyAV, OpenCV,
 * Author:      sunhailin-Leo
 * Email:       379978424@qq.com
 * Website:     https://github.com/sunhailin-Leo
-* License：    **Use Mulan PSL v1.**
+* License：    **Use Mulan PSL v1.** [Mulan PSL v1](https://license.coscl.org.cn/MulanPSL/)
 
 ---
 
