@@ -6,6 +6,7 @@ Automatically compile and configure ffmpeg, Python 3.7.2(default), PyAV, OpenCV,
 <h3 id="ProjectEnv">Project Env</h3>
 
 * System: CentOS (7.4 & 7.5); Other Version is waiting for test.
+* User: Must running by **root**.
 
 ---
 
